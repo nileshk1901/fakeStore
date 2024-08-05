@@ -33,7 +33,7 @@ Welcome to the **Fake Store** application, a dynamic and interactive platform si
   - Axios for handling API requests.
     
 
-![Home Page](screenshots/home-page.png)
+![Home Page](public/screenshots/Screenshot%202024-08-05%20231814.png)
 
 This is the home page of the Fake Store application. Navigate through various product categories and manage your products effortlessly.
 
@@ -42,14 +42,10 @@ This is the home page of the Fake Store application. Navigate through various pr
 - **Add Products:** Easily add new products to your store.
 - **Edit Products:** Update product details to keep your inventory current.
 
-![Add Product](screenshots/add-product.png)
-![Edit Product](screenshots/a-product.png)
+![Add Product](public/screenshots/Screenshot%202024-08-05%20231848.png))
+![Edit Product](public/screenshots/Screenshot%202024-08-05%20231905.png)
 
-Here is the interface for adding a new product to the store.
-
-## Detailed Product View
-
-![Product Details](https://example.com/path/to/product-details.png)
+Here is the interface for adding and editng a new product to the store.
 
 Explore detailed views of each product by clicking on them.
 ## 🚀 Getting Started
